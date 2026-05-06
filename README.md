@@ -89,7 +89,6 @@ Outside of research and academics, I enjoy reading books, clicking photos, makin
 ### Machine Learning & AI
 <p align="left">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
@@ -117,8 +116,7 @@ Outside of research and academics, I enjoy reading books, clicking photos, makin
 ## 🧑‍💻 Programming & Scripting
 - Python (Biopython, Matplotlib)  
 - R (ggplot2, edgeR, DESeq2)   
-- Shell scripting (Bash, Linux environment)  
-- Jupyter Notebook  
+- Shell scripting (Bash, Linux environment) 
 - Miniconda  
 
 ## 🧬 Bioinformatics Tools & Databases
@@ -127,7 +125,6 @@ Outside of research and academics, I enjoy reading books, clicking photos, makin
 - Ensembl Genome Browser  
 - ExPASy suite (ProtParam, Translate, SwissSidechain)  
 - STRING (protein-protein interactions)  
-- MEGA (phylogenetic analysis)  
 
 ## 📊 Data Analysis & Statistics
 - RStudio (statistical analysis, visualization)  
@@ -137,15 +134,14 @@ Outside of research and academics, I enjoy reading books, clicking photos, makin
 - AlphaFold DB  
 - Modeller  
 - SWISS-MODEL  
-- AlphaFold Protein Structure Database  
-- Robetta (Baker Lab)   
-- Structure Validation / Comparison  
+- PyRobetta (Baker Lab)   
 - SWISS-MODEL Structure Assessment  
 - PROCHECK  
 
 ## 🤖 Machine Learning & AI
 - TensorFlow  
-- Keras  
+- Keras
+- PyTorch  
 - Scikit-learn  
 - Pandas  
 - NumPy  
