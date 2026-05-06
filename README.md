@@ -11,7 +11,7 @@ alt="Bioinformatics Banner" width="100%"
 <div align="center">
 
 # Hi, I'm Debojyoti Chatterjee   
-**MSc Bioinformatics student | Exploring data & NGS analysis, APIs, and AI/ML · Passionate about research collaboration & data-driven discovery**
+**MSc Bioinformatics student | Exploring data, structure and systems at an Biological Level · Passionate about research collaboration & data-driven discovery**
 
 [![Email](https://img.shields.io/badge/Email-cdebojyoti.research%40gmail.com-red?style=flat&logo=gmail)](mailto:cdebojyoti.research@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Debojyoti%20Chatterjee-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/debojyoti-chatterjee-bioinfo) 
 
@@ -21,14 +21,15 @@ alt="Bioinformatics Banner" width="100%"
 
 ### About Me  
 
-I’m currently pursuing my Master’s in **Bioinformatics**, with growing experience in data analysis, NGS workflows, and API development.  
-I enjoy building tools that transform raw biological data into meaningful insights, and I’m especially curious about how *AI/ML can advance research in life sciences*.  
-
-I am currently exploring the world of Genomics, Proteomics, Cancer Biology, and Chemoinformatics.  
-My main research interests rest in research collaboration, bioinformatics pipelines, and applied machine learning in biology.  
-
-Recently, I worked on a project exploring data APIs of various bioinformatics databases such as **UniProt**, **NCBI**, and **KEGG**, integrating them in a minimal dashboard for easier access—aimed at making scientific workflows more reproducible, accessible, and faster.  
-
+I am currently pursuing an **MSc in Bioinformatics** with a strong interest in:
+Computational Drug Discovery
+Molecular Dynamics Simulations
+Structural Bioinformatics
+Multi-omics Data Analysis
+Systems Biology & Network Biology
+My work primarily focuses on combining computational biology, molecular modelling, and data-driven analysis to understand biological systems and identify novel therapeutic insights.
+I enjoy developing reproducible computational workflows, bioinformatics pipelines, and research-oriented tools that bridge biological data with meaningful interpretation.
+I am particularly fascinated by how protein dynamics, signaling networks, and multi-omics interactions contribute to complex disorders such as neurodegenerative diseases and cancer.
 Outside of research and academics, I enjoy reading books, clicking photos, making videos, and learning instruments.  
 
 ---
