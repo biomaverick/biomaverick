@@ -10,8 +10,8 @@ alt="Bioinformatics Banner" width="100%"
 
 <div align="center">
 
-# Hi, I'm Debojyoti Chatterjee   
-**MSc Bioinformatics student | Exploring data, structure and systems at an Biological Level · Passionate about research collaboration & data-driven discovery**
+# Hi There!, I'm Debojyoti Chatterjee   
+**MSc Bioinformatics student | Exploring data, structure, dynamics and systems at a biological level · Passionate about research collaboration & data-driven discovery**
 
 [![Email](https://img.shields.io/badge/Email-cdebojyoti.research%40gmail.com-red?style=flat&logo=gmail)](mailto:cdebojyoti.research@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Debojyoti%20Chatterjee-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/debojyoti-chatterjee-bioinfo) 
 
@@ -19,28 +19,26 @@ alt="Bioinformatics Banner" width="100%"
 
 ---
 
-### About Me  
+### Who Am I?   
 
 I am currently pursuing an **MSc in Bioinformatics** with a strong interest in:
-Computational Drug Discovery
-Molecular Dynamics Simulations
-Structural Bioinformatics
-Multi-omics Data Analysis
-Systems Biology & Network Biology
+Computational Drug Discovery,
+Molecular Dynamics Simulations,
+Structural Bioinformatics,
+Systems Biology & Network Biology.
 My work primarily focuses on combining computational biology, molecular modelling, and data-driven analysis to understand biological systems and identify novel therapeutic insights.
 I enjoy developing reproducible computational workflows, bioinformatics pipelines, and research-oriented tools that bridge biological data with meaningful interpretation.
 I am particularly fascinated by how protein dynamics, signaling networks, and multi-omics interactions contribute to complex disorders such as neurodegenerative diseases and cancer.
 Outside of research and academics, I enjoy reading books, clicking photos, making videos, and learning instruments.  
 
 ---
-
-### My Aim?
-- Develop **bioinformatics tools and pipelines** that turn raw data (NGS, sequence, structural) into reproducible insights.  
-- Build **robust API wrappers** (UniProt, NCBI, KEGG) and data pipelines to simplify biological data access and integration.  
-- Design **interactive dashboards** (Streamlit) and automated **reporting workflows** (ReportLab/Python) for faster research decisions.  
-- Utilize **data analysis and computational methods** for sequence/structural analysis, protein–ligand interactions, and drug discovery.  
-- Explore the role of **AI/ML in life sciences**, with interests spanning protein modeling, systems biology, and cancer bioinformatics.  
-- Highlight **clarity, collaboration, and reproducibility** in every project—ensuring code, data, and documentation are research-ready.  
+## What do I want to do?
+- Develop reproducible bioinformatics pipelines and computational workflows for analyzing sequence, structure.
+- Apply molecular dynamics simulations, structural bioinformatics, and systems biology approaches to better understand disease mechanisms, protein dynamics, and therapeutic targeting.
+- Contribute toward computational drug discovery and rational therapeutic design, particularly in areas related to neurodegenerative disorders and complex disease biology.
+- Explore the integration of AI/ML with biological modelling and molecular simulations for predictive analysis, hypothesis generation, and data-driven discovery.
+- Promote clarity, reproducibility, collaboration, and open scientific workflows through well-documented code, scalable pipelines, and research-focused development.
+- Continuously grow at the intersection of computational biology, molecular simulation, and systems-level biological analysis while contributing to impactful interdisciplinary research.
 
 ---
 
@@ -101,18 +99,19 @@ Outside of research and academics, I enjoy reading books, clicking photos, makin
 <p align="left">
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white" />
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white" />
-</p>
-
----
-
-### Web & Development
-<p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
 </p>
 
 ---
+## 🧑‍💻 Currently Exploring
+- Advanced Molecular Dynamics & Enhanced Sampling Methods
+- Markov State Models  and conformational landscape analysis
+- Gaussian Accelerated Molecular Dynamics 
+- Systems Biology & Network-based Disease Modelling
+- Neurodegenerative Disorder Mechanisms and Protein Misfolding
+- AI-driven Drug Discovery & Predictive Modelling
+- High Performance Computing  for biomolecular simulations
 
 ## 🧑‍💻 Programming & Scripting
 - Python (Biopython, Matplotlib)  
@@ -122,13 +121,10 @@ Outside of research and academics, I enjoy reading books, clicking photos, makin
 
 ## 🧬 Bioinformatics Tools & Databases
 - NCBI (BLAST, GEO, SRA)  
-- UniProt, PDB, Pfam  
+- UniProt, PDB, Pfam, PDBsum  
 - Ensembl Genome Browser  
 - ExPASy suite (ProtParam, Translate, SwissSidechain)  
 - STRING (protein-protein interactions)  
-
-## 📊 Data Analysis & Statistics
-- RStudio (statistical analysis, visualization)  
 
 ## 🧩 Structural Biology Tools
 - PyMOL, Chimera, ChimeraX  
@@ -150,11 +146,18 @@ Outside of research and academics, I enjoy reading books, clicking photos, makin
 ## ☁️ Cloud & HPC
 - Google Colab / Kaggle notebooks  
 - Cluster computing basics (batch job submission, Linux servers)  
-
-## 📑 Document Preparation 
-- Markdown (GitHub-friendly docs, READMEs)  
-
-## 🌐 Web & Development Basics
-- HTML(for portfolio/CV pages)  
 - Git & GitHub (version control, project hosting)  
 
+## ☁️ Open To
+- Research collaborations
+- Computational biology projects
+- Bioinformatics tool development
+- Structural biology & MD simulation projects
+- Open-source scientific software contributions
+---
+
+<div align="center">
+
+## “Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.” — Richard Feynman
+
+</div>
